@@ -1,4 +1,4 @@
-<p align="center">Hello .. I'm Seif Eldeen, a self-taught full-stack web developer and UI designer several years of experience. My extensive experience has equipped me with the necessary skills and knowledge to successfully implement any project. Currently, my focus is on using the (MERN) stack in combination with Next.js and TypeScript to develop cutting-edge full-stack web applications.</p>
+<p align="center">Full-stack developer specializing in MERN and Next.js applications with a strong eye for UI/UX design. Passionate about building performant, scalable web apps. Seeking to contribute to innovative projects and solve real-world problems.</p>
 
 ###
 
